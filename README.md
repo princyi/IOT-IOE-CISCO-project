@@ -1,6 +1,7 @@
-# IOT-IOE-CISCO-project
+# IOT-IOE-CLOUD-CISCO-Packet Tracer
 IOT - IOE PROJECT - IPS , MODULE CLIENT AND 3G/4G CLIENT IN CISCO PACKET TRACER
-IOT Related project which is implemented on CISCO PacketTracer 
+IOT-IOE and cloud technology based project 
+which is implemented on CISCO PacketTracer 
 
  The role of an ISP (Internet Service Provider) in providing the necessary internet connectivity for the IoT/IoE project.
  The function of a modem client, which could be a device that connects to the ISP and enables other devices to access the internet.
